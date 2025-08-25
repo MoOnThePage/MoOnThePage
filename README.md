@@ -1,4 +1,4 @@
-# MAAL | Design Automation
+# MoOnThePage
 - 👋 Hi, I’m **MAAL** — I design and build custom electronics and smart hardware systems.
 - 👀 I’m interested in **PCB design**, **embedded systems**, and building **smart electronics projects**.
 - 🌱 I’m currently learning **Rust for embedded systems** and exploring **Verilog for digital design**.
@@ -6,6 +6,6 @@
 - 📫 Feel free to open an issue on one of my repositories if you'd like to reach out.
 
 <!---
-MAAL-Design-Automation/MAAL-Design-Automation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MoOnThePage/MoOnThePage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
