@@ -33,7 +33,9 @@ I build projects where hardware meets AI — from robotics to industrial inspect
 
 ---
 
-📫 **Let’s Connect!**  
-[LinkedIn](www.linkedin.com/in/moonthepage) • [Email](mailto:moonthepage@gmail.com)  
+📫 **Let’s Connect!**
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="moonthepage" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lb.linkedin.com/in/moonthepage?trk=profile-badge">Mohammad ALhamad</a></div>
+[LinkedIn](www.linkedin.com/in/moonthepage) 
+• [Email](mailto:moonthepage@gmail.com)  
 
 ---
