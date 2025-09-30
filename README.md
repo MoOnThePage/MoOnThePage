@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohammad Ahmad ALhamad (MAAL)
+# 👋 Hi, I’m Mohammad Ahmad ALhamad — MAAL
 
 ## 🚀 Embedded Vision & IoT Engineer  
 *ESP32 • Raspberry Pi • OpenCV • FreeRTOS • Embedded C/C++*
